@@ -27,10 +27,6 @@ La aplicación es sencilla, rápida y puede ser utilizada para juegos y dinámic
 - `Reemplazo automático`: al volver a sortear, se reemplaza el resultado anterior.
 
 
-## 🚀 Acceso al proyecto
-
-🔗 [Ver demo online (GitHub Pages)](https://francocasafus22.github.io/franco_casafus_alura_challenge/)
-
-O clona el repositorio:
+Clona el repositorio:
 ```bash
 git clone https://github.com/francocasafus22/franco_casafus_alura_challenge.git
